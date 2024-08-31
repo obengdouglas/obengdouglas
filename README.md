@@ -9,8 +9,7 @@
   </a>
 </center>
 
-
-Here are some ideas to get you started:
+I am a Data Professional skilled in building robust data pipelines, analytics, data science and machine learning. I have experience within the energy and retail industries, using statistical methods, programming languages & cloud solutions to clean, analyze, model and interpret data. I am a curious & quick learner, always seeking ways to solve hard problems & engage in transparent dialogue. I am proficient in Python, SQL, Spark, Power BI and Tableau. Get in touch to discuss how I can help your organization derive the best value out of data.
 
 - 🔭 I’m currently working on End-to-End Data Engineering project for Analysis of the 2021 Olympics
 - 🌱 I’m currently learning Snowflakes
