@@ -39,7 +39,7 @@ I am a Data Professional skilled in building robust data pipelines, analytics, d
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
 ## ⚡ Github Stats
 <!--(https://github-readme-stats.vercel.app/api?username=obengdouglas)]-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obengdouglas&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obengdouglas&show_icons=true&hide_border=true&layout=compact&hide_progress=true&langs_count=10&size_weight=0.9&count_weight=0.1"/>
 
 ## 🔥 Github Streaks</b></summary>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=obengdouglas&hide_border=true" />
